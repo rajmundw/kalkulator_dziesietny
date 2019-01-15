@@ -17,6 +17,11 @@
 		</li>
 	<li>To run file you have to write in console in this same folder "npm run bulid" to switch on webpack </li>
 </ul>
+<h2>Live:</h2>
+<ul>
+	<li>https://rajmundw.github.io/kalkulator_dziesietny/</li>
+</ul>
+
 
 <h2>ToDo:</h2>
 <ul>
